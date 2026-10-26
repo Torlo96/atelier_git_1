@@ -9,4 +9,4 @@ gala
 with(gala, plot(log(Species)~log(Area)))
 
 
-log
+with(gala, plot(log(Species)~Elevation))
